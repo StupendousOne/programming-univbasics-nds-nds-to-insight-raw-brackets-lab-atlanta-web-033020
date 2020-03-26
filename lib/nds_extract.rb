@@ -19,10 +19,10 @@ def directors_totals(nds)
   #
   # Be sure to return the result at the end!
   pp nds[0]
-  totals = {}
-  count = 0
-  while nds[0]
+  #totals = {}
+  #count = 0
+  #while nds[0]
   
-  totals
+  #totals
   nil
 end
